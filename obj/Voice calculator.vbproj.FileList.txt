@@ -1,0 +1,26 @@
+obj\Debug\Voice calculator.exe
+obj\Debug\Voice calculator.xml
+obj\Debug\Voice calculator.pdb
+bin\Debug\Voice calculator.exe
+bin\Debug\Voice calculator.pdb
+bin\Debug\Voice calculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Voice_calculator.FormCalculator.resources
+obj\Debug\Voice_calculator.FormConstants.resources
+obj\Debug\Voice_calculator.Resources.resources
+obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Voice_calculator.FormCalculator.resources
+obj\Release\Voice_calculator.FormConstants.resources
+obj\Release\Voice_calculator.Resources.resources
+obj\Release\Voice calculator.vbproj.GenerateResource.Cache
+bin\Release\Voice calculator.exe
+bin\Release\Voice calculator.pdb
+bin\Release\Voice calculator.xml
+obj\Release\Voice calculator.exe
+obj\Release\Voice calculator.xml
+obj\Release\Voice calculator.pdb
+bin\Release\Interop.HTTSLib.dll
+bin\Release\Interop.SpeechLib.dll
+bin\Debug\gscore10.pdb
+obj\Debug\Voice_calculator.ADV.resources

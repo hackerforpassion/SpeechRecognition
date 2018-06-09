@@ -1,0 +1,105 @@
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\admin\Desktop\Voice calculator\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+G:\Voice calculator\Voice calculator\obj\Debug\Voice calculator.exe
+G:\Voice calculator\Voice calculator\obj\Debug\Voice calculator.xml
+G:\Voice calculator\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\bin\Debug\Interop.HTTSLib.dll
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\bin\Debug\Interop.SpeechLib.dll
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\admin\Desktop\voice\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.exe
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.xml
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.pdb
+G:\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.exe
+G:\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.pdb
+G:\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.xml
+G:\Voice calculatorcode\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+G:\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\admin\Desktop\Voice calculatorcode\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\Ramesh\Desktop\New folder (8)\voice calc\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\bin\Debug\gscore10.pdb
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\New folder (11)\voice calcsnd\Voice calculator\obj\Debug\Voice_calculator.ADV.resources
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.exe
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\bin\Debug\gscore10.pdb
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.ADV.resources
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\pradeep\Desktop\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+E:\ramesh\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.exe
+E:\ramesh\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.xml
+E:\ramesh\proj\voice calcadv\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\bin\Debug\Voice calculator.exe
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\bin\Debug\Voice calculator.pdb
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\bin\Debug\Voice calculator.xml
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\bin\Debug\gscore10.pdb
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.ADV.resources
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.FormCalculator.resources
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.FormConstants.resources
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice_calculator.Resources.resources
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\voice calcadv\Voice calculator\obj\Debug\Voice calculator.exe
+D:\projects\voice calcadv\Voice calculator\obj\Debug\Voice calculator.exe
+D:\projects\voice calcadv\Voice calculator\obj\Debug\Voice calculator.xml
+D:\projects\voice calcadv\Voice calculator\obj\Debug\Voice calculator.pdb
