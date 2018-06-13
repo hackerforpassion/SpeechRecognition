@@ -45,5 +45,5 @@ The speech recognition system works based on the level of training and the amoun
 
 
 **Working Model:**
-![Training](https://lh4.googleusercontent.com/RXe7o1Lbre0Abw_Y5N3Z1K6vZFw2SarccbeRDT6jlWssuC0KuDwJZNfZ9I8fEREno-SS-LIm-axfjw=w1853-h951)
-![Working Model](https://lh5.googleusercontent.com/WO3ZHhrddaZHXaDr-u6AyLADbsNDaaEVZymikY8lYsSogL6Vr4FxLtVEvH63GIIU1nUHZqTZOrVVAw=w1853-h951)
+![Training](https://raw.githubusercontent.com/hackerforpassion/SpeechRecognition/master/train.png)
+![Working Model](https://raw.githubusercontent.com/hackerforpassion/SpeechRecognition/master/workingModel.png)
